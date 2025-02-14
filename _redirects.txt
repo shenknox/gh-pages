@@ -1,0 +1,2 @@
+/* /:splat 200
+/blog/* /blog/:splat/index.html 200
