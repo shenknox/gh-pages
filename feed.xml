@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>flipthepack</title>
-    <link href="https://shenknox.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://shenknox.github.io/gh-pages" />
+    <link href="https://shenknox.github.io/flipthepack/feed.xml" rel="self" />
+    <link href="https://shenknox.github.io/flipthepack" />
     <updated>2025-02-14T14:59:30+05:30</updated>
     <author>
         <name>shenknox</name>
     </author>
-    <id>https://shenknox.github.io/gh-pages</id>
+    <id>https://shenknox.github.io/flipthepack</id>
 
     <entry>
         <title>What’s Really Inside Your Favorite Snack? The Truth Behind Food Labels!</title>
         <author>
             <name>shenknox</name>
         </author>
-        <link href="https://shenknox.github.io/gh-pages/whats-really-inside-your-favorite-snack-the-truth-behind-food-labels.html"/>
-        <id>https://shenknox.github.io/gh-pages/whats-really-inside-your-favorite-snack-the-truth-behind-food-labels.html</id>
+        <link href="https://shenknox.github.io/flipthepack/whats-really-inside-your-favorite-snack-the-truth-behind-food-labels/"/>
+        <id>https://shenknox.github.io/flipthepack/whats-really-inside-your-favorite-snack-the-truth-behind-food-labels/</id>
 
         <updated>2025-02-13T04:45:18+05:30</updated>
             <summary>
